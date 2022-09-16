@@ -1,3 +1,5 @@
+# Exercício 23
+
 import operator
 
 diario_classe= {}

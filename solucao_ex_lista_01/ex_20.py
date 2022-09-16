@@ -1,3 +1,5 @@
+# Exercício 20
+
 valor_inicial = float(input("Digite o valor da primeira parcela: "))
 percentual = int(input("Digite o valor percentual de cada parcela: ")) / 100
 quantidade_parcelas = int(input("Digite o numero de parcelas: "))

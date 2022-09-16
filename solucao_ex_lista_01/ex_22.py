@@ -1,3 +1,5 @@
+# Exercício 22
+
 lista = []
 
 i = 0
