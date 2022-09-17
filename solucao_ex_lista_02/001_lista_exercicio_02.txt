@@ -1,0 +1,38 @@
+***Instruções Iniciais***
+
+Para realizar os exercícios abertos, considere subir para o repositório git:
+https://github.com/thaisribeiro/lista-exercicios-python2, para que façamos a
+correção:
+● Criar uma branch que identifique seu nome, para começar os
+exercícios.
+○ git checkout -b <nome_branch> - ex: git checkout -b thais-ribeiro
+○ a criação dos arquivos .py ficam a critério de vocês
+○ após codificar, subir a branch: git add ., git commit -m
+"comentário do commit”, git push
+
+
+**Exercícios**
+1. Dada as seguintes informações: Pessoa, cpf, nome e idade, crie uma
+classe onde teremos o retorno do documento, o retorno do nome e
+verificação de tipo de pessoa, onde um método irá receber como
+parâmetro “F” ou “N” para trazer fumante ou não fumante.
+Feito isso, crie uma instância e retorne esses valores.
+
+2. Escreva uma classe “PessoaFisica” e herde Pessoa, crie um método
+exclusivo para a classe e acesse-o
+
+3. Escreva uma classe “PessoaJurica” e herde Pessoa, agora
+modificando o comportamento, retorne o cnpj. Crie uma instância e
+acesse os dados
+
+4. Crie um professor de classe com atributos nome, idade e salário, onde
+o salário deve ter um método privado que não pode ser acessado fora
+da classe.
+    a. Crie um método para acessar o método privado, onde é passada
+        a identificação do usuário se ele pode ou não acessar.
+
+5. Escreva uma classe “Quadrado”, crie dois métodos que retornem a
+área do quadrado e o perímetro, não crie a instância nesse exercício.
+
+6. Crie um arquivo main.py, importe a classe “Quadrado”, crie uma nova
+instância e acesse seus métodos.
