@@ -1,0 +1,53 @@
+**Obejetos**
+
+Os objetos são qualquer coisa que represente a vida real.
+É uma entidade que encapsula dados e comportamentos,
+onde, 
+o comporamento é um conjunto de funções ou "métodos"
+
+Ex: 
+Objeto -> "Calculadora"
+
+Possui - > atributos : cor, tamanho, número de botões
+       - > comporamento : soma, multiplica, divide
+
+
+**Classes**
+
+Uma classe é uma coleção de objetos com caracteristicas
+semelhantes. Cada objeto consiste em uma característica
+e uma funcionalidade, elas são conhecida como:
+VARIÁVEIS e FUNÇÕES.
+
+Elas são utilizadas para criar uma estrutura de dados
+definida pelo usuário. As classes definem funções que
+identificam comportamentos e ações que um objeto criado a
+partir de uma classe pode realizar com seus dados.
+Uma classe é um MODELO de como algo deve ser definido. Ela
+não contém nenhum dado.
+Já uma instância é um objeto que é contruido a partir de uma
+classe que irá conter valores reais.
+
+*** POO e Pilares: ***
+
+** Abstração **
+Abstração é o processo de ocultar detalhes de implementação do
+usuário, apenas a funcionalidade será fornecida. Ou seja, o
+usuário terá a informação que o objeto faz ao invés de como ele
+faz.
+
+** Herança ** 
+Herança é definida como o procecsso onde uma classe adquire 
+as propriedades (métodos e compas) de outra. Ela pode ser simples,
+múltipla ou multinível.
+
+** Polimorfismo **
+É a caracteristica de poder atribuir um significado ou uso diferente
+a algo em diferentes contextos - expecíficamente, permitir que uma 
+entidade como, uma função, ou objeto tenha mais de uma forma.
+
+** Encapsulamento **
+É descrito como uma barreira protetora que impede que o código e os 
+dados sejam acessados aleatóriamente por outro código definido fora 
+da classe. O acesso aos dados e ao codigo é rigidamente controlado
+por uma classe.
